@@ -1,4 +1,5 @@
 # Olympic-tokyo-dataset-2021
 
 
-Pictures/Architecture.png
+
+ ![Alternate image text](Pictures/Architecture.png)
